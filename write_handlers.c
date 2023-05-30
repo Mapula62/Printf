@@ -1,4 +1,4 @@
-include "main.h"
+#include "main.h"
 /************************* WRITE HANDLE *************************/
 /**
  * handle_write_char - string to be printed
